@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  max-width: 400px;
+}
+
+.alert {
+  color: red;
+  font-weight: bold;
+}
+
+.normal {
+  color: green;
+  font-weight: bold;
+}
